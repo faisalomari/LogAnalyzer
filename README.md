@@ -1,7 +1,4 @@
 
-<title>Log Analyzer</title>
-
-
 <h1>Log Analyzer</h1>
 
 <p>Log Analyzer is a comprehensive full-stack project designed for efficient log file analysis, prediction, and visualization. The system comprises a Node.js-based backend and a React.js-based frontend. This README provides instructions on setting up and running both the backend and frontend components.</p>
